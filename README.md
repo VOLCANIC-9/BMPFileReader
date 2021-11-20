@@ -7,7 +7,7 @@ V1.01:
 ------
 
 It reads data from a bitmap file with Headersize 12 and 40.
-
+It just works with C/C++ compiler.
 
 Branch:
 ------
